@@ -28,7 +28,7 @@ The project addresses the classification of menstrual blood color categories usi
 - **Status:** Accepted (pending presentation)
 - **DOI / Link:** <!-- Add once available -->
 
-## Citation
+<!-- ## Citation
 
 If you use this work, please cite:
 
@@ -41,7 +41,7 @@ If you use this work, please cite:
 }
 ```
 
-<!-- Update with the official citation once conference proceedings are published -->
+ Update with the official citation once conference proceedings are published -->
 
 ## Dataset
 
