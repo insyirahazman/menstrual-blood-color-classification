@@ -116,4 +116,4 @@ This work was supported by the Fisabilillah Research Development Grant Scheme (G
 
 ## Contact
 
-For questions about this work, please contact <!-- insyirazman@gmail.com --> or open an issue in this repository.
+For questions about this work, please contact insyirazman@gmail.com or open an issue in this repository.
