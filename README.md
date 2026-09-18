@@ -2,7 +2,7 @@
 
 Deep learning classification of menstrual blood color with class imbalance handling. Accepted at **IICAIET 2026**.
 
-> 📌 **Status:** Paper accepted, pending presentation.
+> 📌 **Status:** Paper accepted, pending publication.
 
 ---
 
